@@ -32,15 +32,7 @@
                             <core:Item xmlns:core="sap.ui.core" key="US" text="USA" id="cb_us"/>
                             <core:Item xmlns:core="sap.ui.core" key="PH" text="Philippines" id="cb_ph"/>
                         </items>                    
-                    </Select>
-                    <!--<ComboBox id="cb_cntry" placeholder="Country">
-                        <items>
-                            <core:Item xmlns:core="sap.ui.core" key="UK" text="England" id="cb_uk"/>
-                            <core:Item xmlns:core="sap.ui.core" key="DE" text="Germany" id="cb_de"/>
-                            <core:Item xmlns:core="sap.ui.core" key="US" text="USA" id="cb_us"/>
-                            <core:Item xmlns:core="sap.ui.core" key="PH" text="Philippines" id="cb_ph"/>
-                        </items>                    
-                    </ComboBox>-->               
+                    </Select>             
                 </sap.ui.layout.form:content>
             </sap.ui.layout.form:SimpleForm>
 
